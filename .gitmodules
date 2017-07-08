@@ -1,0 +1,3 @@
+[submodule "kitsu/client"]
+	path = kitsu/client
+	url = https://github.com/OmarMoper/kitsuio-client.git
