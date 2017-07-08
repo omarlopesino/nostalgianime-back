@@ -1,9 +1,15 @@
 ansible==2.1.2.0
+dj-database-url==0.4.2
+dj-static==0.0.6
 Django==1.11.3
 django-cors-headers==2.1.0
+django-toolbelt==0.0.1
 djangorestframework==3.6.3
+gunicorn==19.7.1
 olefile==0.44
 Pillow==4.2.1
+psycopg2==2.7.1
 python-memcached==1.58
 pytz==2017.2
 six==1.10.0
+static3==0.7.0
