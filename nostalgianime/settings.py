@@ -25,7 +25,7 @@ SECRET_KEY = 'o54p4#kk79*fxvndy*!$0an0u3@^rrg@n&k9r&z)t6wa88=$)2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nostalgianime.herokuapp.com']
 
 
 # Application definition
